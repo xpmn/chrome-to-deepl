@@ -5,7 +5,7 @@
   "description": "Translate selected text in new tab with DeepL",
   "homepage_url": "https://github.com/rewkha/chrome-to-deepl",
   "icons": {
-    "48": "icons/icon.svg"
+    "48": "icons/icon.png"
   },
   "permissions": ["activeTab", "contextMenus", "storage"],
   "background": {
