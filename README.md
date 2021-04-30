@@ -1,6 +1,7 @@
 # To DeepL
 
 Chrome extension. Highlight text on a web page and send it to DeepL.
+I'm not planning publish this extension to chrome store
 
 This extension is clone of firefox extension "[To DeepL](https://github.com/rewkha/firefox-to-deepl)"
 
